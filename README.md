@@ -25,7 +25,7 @@
 <!-- OVERVIEW -->
 ## Overview of the workshop
 
-The workshop is built around a set of slides and a two RMarkdown files, with accompanying data sets, that you will find here. The goal is to take you through the estimation approach of 
+The workshop is built around a set of slides and a two RMarkdown files, with accompanying data sets, that you will find here. The goal is to take you through the estimation approach of [[3]](#3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
