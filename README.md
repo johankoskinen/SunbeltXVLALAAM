@@ -43,9 +43,10 @@ By network data, we will assume data where we have observations on binary tie-va
 
 There are many other ways in which to collect and `operationalise' network ties. Here we will not deal with network inference such as inferring causal graphs or other network represenations
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The ALAAM routines are not yet in an R package but stored  in the main ALAAM repositiory [https://raw.githubusercontent.com/johankoskinen/ALAAM).
+The ALAAM routines are not yet in an R package but stored  in the main ALAAM repositiory [https://raw.githubusercontent.com/johankoskinen/ALAAM). The key idea is how we may model social influence for binary data embedded in a network. In particular, how can we allow for the outcome of one person to depend on those of their network neighbours.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### R-Prerequisites
 
