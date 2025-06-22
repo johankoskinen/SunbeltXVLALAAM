@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/johankoskinen/SunbeltXVLALAAM">
+  <a href="https://github.com/johankoskinen/CHDH-SNA">
       <img src="images/smallnet.jpg" alt="Logo" width="180" height="120">
    </a>
 
