@@ -95,7 +95,7 @@ You *will*, however, need to come with a laptop with R and R-studio installed. I
 
 Johan Koskinen - [@drjohankoskinen](https://twitter.com/drjohankoskinen) - johan.koskinen@stat.su.se
 
-Project Link: [https://github.com/johankoskinen/CDHD-SNA](https://github.com/johankoskinen/ALAAM)
+Project Link: [https://github.com/johankoskinen/ALAAM](https://github.com/johankoskinen/ALAAM)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
